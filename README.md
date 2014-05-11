@@ -1,3 +1,13 @@
+## Assigment 1
+
+I've defined a function to read the data, <b>read_data.R</b>.
+All of the code files for plotting are on the root directory. (plot1.R, plot2.R, ....)
+The generate <b>.PNG</b> files are stored in the <b>figures</b> directory. 
+
+Thank you,
+Sérgio Casca
+
+
 ## Introduction
 
 This assignment uses data from
