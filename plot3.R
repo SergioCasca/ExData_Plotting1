@@ -5,7 +5,7 @@ ds <- read_data()
 
 
 # open connection
-png('figure/plot3.png',width = 480, height = 480)
+png('plot3.png',width = 480, height = 480)
 
 
 #plot

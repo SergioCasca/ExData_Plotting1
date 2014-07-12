@@ -8,7 +8,7 @@ oldpar = par()
 
 
 # open connection
-png('figure/plot4.png',width = 480, height = 480)
+png('plot4.png',width = 480, height = 480)
 
 # combining plots
 par(mfrow=c(2,2))
