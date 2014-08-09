@@ -1,9 +1,9 @@
 ## Assigment 1
 <ol>
-<li>I've defined a function to read the data, <b>read_data.R</b>.</li>
 <li>All of the code files for plotting are on the root directory. (plot1.R, plot2.R, ....)</li>
 <li>The generate <b>.PNG</b> files are stored in the <b>ROOT</b> directory. </li>
 <li>I've included the <b>data</b> directory to <b>.gitignore</b> due to its size</li>
+<li>I've defined a function to read the data, <b>read_data.R</b>, but I've commented it in each of plot files since in the project description said in bold that each plot file should:<b>'Your code file should include code for reading the data'</b> </li>
 </ol>
 
 Thank you,
